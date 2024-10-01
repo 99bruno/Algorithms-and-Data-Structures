@@ -17,7 +17,7 @@ This repository contains the implementation of various algorithms and data struc
 
 ## Data Structures
 
-- **[README.md](Data%20Structures/LinkedList/README.md)**: A linear data structure, in which the elements are not stored at contiguous memory locations.
+- **[Linked List](Data%20Structures/LinkedList/README.md)**: A linear data structure, in which the elements are not stored at contiguous memory locations.
 
 ## Repository Structure
 
